@@ -1,6 +1,6 @@
 var defaultExtensionSettings = {
         "gravity": {
-            "score": 4294967295
+            "score": 9999999999999999999999999
         },
         "learn": {
             "speed": 700
@@ -12,7 +12,7 @@ var defaultExtensionSettings = {
             "key": "c"
         },
         "match": {
-            "time": 0.5
+            "time": 0.0
         },
         "night": false,
         "test": {
